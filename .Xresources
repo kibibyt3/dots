@@ -1,0 +1,5 @@
+xterm*termName: xterm-256color
+xterm*vt100*reverseVideo: true
+xterm.vt100.renderFont: true
+xterm*font: -*-terminus-medium-*-*-*-16-*-*-*-*-*-*-*
+xterm*faceName: Terminal:size=12:antialias=true
